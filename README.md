@@ -1,5 +1,7 @@
 Proyecto Pandemic
-Descripción
+--------------------------------------------------------------------------------------------
+Descripción:
+
 Este proyecto es una implementación digital del popular juego de mesa Pandemic, desarrollado utilizando Java para la lógica del juego, HTML para la interfaz de usuario y SQL para la gestión de datos. En Pandemic, los jugadores colaboran como un equipo de especialistas en salud para detener la propagación de enfermedades mortales y encontrar curas antes de que el tiempo se agote.
 
 Características
